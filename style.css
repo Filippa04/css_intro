@@ -1,0 +1,39 @@
+p{
+    color: lightgray;
+    font-style: arial;
+}
+body{
+    background-color: purple;
+}
+#heading{
+    color: red;
+    background-color: greenyellow;
+}
+
+.div {
+    padding: 10px;
+    border: 2px solid blue;
+}
+.pg{
+    color: orange;
+    border: white, 1px;
+}
+.unordered{
+    color: yellow;
+    list-style: square;
+}
+.table{
+    padding: 1px;
+    border: 5px solid brown;
+    background-color: white;
+}
+.tr1{
+    background-color: white;
+    padding: 2px;
+    border: 2px solid blue;
+}
+.img{
+    border: 10px solid yellow;
+    height: 100px;
+    width: 100px;
+}
